@@ -1,0 +1,33 @@
+{
+    "Postfix":
+    {
+        "程序":["exe","msi"],
+        
+        "压缩包":["zip", "rar","7z","tgz"],
+
+        "图片":["jpg", "png", "bmp", "gif", "jpeg"],
+
+        "音频":["mp3", "wav","flac", "aac", "asf", "mpg", "avi", "tti"],
+        
+        "视频":["mp4", "flv", "mov", "mkv", "avi", "rmv", "rm"],
+
+        "文档":{
+            "文本":["docx", "doc", "txt", "md"],
+
+            "表格":["xlsx","xls","csv"],
+
+            "PPT":["ppt","pptx"],
+
+            "PDF":["pdf","PDF"]
+        },
+
+        "种子":["torrent"],
+        
+        "APK":["apk"],
+
+        "浏览器插件":["crx"]
+    },
+
+    "White list":["downloading","xltd","bc!","tmp"]
+    
+}
