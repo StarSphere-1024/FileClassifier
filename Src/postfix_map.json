@@ -1,9 +1,9 @@
 {
     "Postfix":
     {
-        "程序":["exe","msi"],
+        "Programs":["exe","msi"],
         
-        "压缩包":["zip", "rar","7z","tgz"],
+        "Compressed":["zip", "rar","7z","tgz"],
 
         "图片":["jpg", "png", "bmp", "gif", "jpeg"],
 
@@ -28,6 +28,6 @@
         "浏览器插件":["crx"]
     },
 
-    "White list":["downloading","xltd","bc!","tmp"]
+    "White list":["downloading","xltd","bc!","tmp","Ink"]
     
 }
